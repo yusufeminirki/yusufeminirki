@@ -3,7 +3,13 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
-<h3 align="center">A passionate software engineer from Türkiye</h3>
+<h3 align="center">I am a computer engineer who completed my undergraduate education at Gedik
+University. Throughout my education, I have developed numerous applications in
+various programming languages. I have worked extensively on algorithm design,
+natural language processing and artificial intelligence. I have also developed
+mobile applications using Flutter. I have created multiple websites using PHP and
+React. I have also designed competent programs for database management and
+automation systems.</h3>
 
 - 🔭 I’m currently working on **php**
 
