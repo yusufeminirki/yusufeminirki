@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=yusufeminirki&label=Profile%20views&color=0e75b6&style=flat" alt="yusufeminirki" /> 
 </p>
 
-<h1 align="center">Hi 👋, I'm Yusuf</h1>
+<h1 align="center">Hi 👋, I'm Yusuf Emin</h1>
 <h3 align="center">I am a computer engineer who completed my undergraduate education at Gedik
 University. Throughout my education, I have developed numerous applications in
 various programming languages. I have worked extensively on algorithm design,
