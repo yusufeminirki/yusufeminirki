@@ -28,7 +28,7 @@ automation systems.</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yusufeminirki&show_icons=true&locale=en" alt="yusufeminirki" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yusufeminirki&" alt="yusufeminirki" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yusufeminirki" alt="yusufeminirki" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yusufeminirki" alt="yusufeminirki" /></a> </p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yusufeminirki/yusufeminirki/output/github-contribution-grid-snake-dark.svg">
