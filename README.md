@@ -1,5 +1,5 @@
 
-<h4 align="center">Visitor's Count :eyes:</h4>
+<h4 align="center">Profile Views :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{yusufeminirki}/count.svg"/></p>
 <h1 align="center">Hi 👋, I'm Yusuf Emin</h1>
 <p align="center">
@@ -29,7 +29,10 @@ automation systems.</h3>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=yusufeminirki&show_icons=true&locale=en" alt="yusufeminirki" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yusufeminirki&show_icons=true&locale=en&layout=compact" alt="yusufeminirki" /></p>
+<div style="position: relative; top: 10%; left: 50%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yusufeminirki&show_icons=true&locale=en&layout=compact" alt="yusufeminirki" />
+</div>
+
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yusufeminirki" alt="yusufeminirki" /></a> </p>
 
