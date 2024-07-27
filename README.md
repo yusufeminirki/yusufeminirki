@@ -13,7 +13,7 @@ mobile applications using Flutter. I have created multiple websites using PHP an
 React. I have also designed competent programs for database management and
 automation systems.</h3>
 
-- 🔭 I’m currently working on **php**
+- 🔭 I’m currently working on **ASP.Net**
 
 - 📫 How to reach me **yusufeminirki@gmail.com**
 
