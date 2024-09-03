@@ -5,21 +5,18 @@
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Engineer+🤖;Software+Developer+🚀"></a></p>
 
-<h3 align="center">I am a computer engineer who completed my undergraduate education at Gedik
-University. Throughout my education, I have developed numerous applications in
-various programming languages. I have worked extensively on algorithm design,
-natural language processing and artificial intelligence. I have also developed
-mobile applications using Flutter. I have created multiple websites using PHP and
-React. I have also designed competent programs for database management and
-automation systems.</h3>
+<h3 align="center">After Graduating From The Department Of Computer Engineering At Istanbul Gedik University, I Studied Fullstack Programming At Bahcesehir University Wissen Akademie. During My Education, I Developed Many Applications In Various Programming Languages. I Have Worked Extensively In Algorithm Design, Natural Language Processing And Artificial Intelligence. I Have Created Many Projects On Mobile And Web. I Have Also Designed Competent Programs For Database Management And Automation Systems. In Addition To My Computer Engineering Background, I Took Industrial Engineering Courses That Further Developed My Project Management Skills. At This Stage Of My Career, I Am Working With .NET Framework And I Am Working In The Field Of Digital Marketing.</h3>
 
-- 🔭 I’m currently working on **ASP.Net**
+- 🔭 I’m currently working on **.Net Framework**
 
 - 📫 How to reach me **yusufeminirki@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yusufeminırkı" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusuf-emin-irkı" height="30" width="40" /></a>
+<a href="https://medium.com/@yusufeminirki" target="_blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/42/Medium_icon.svg" alt="Medium" height="30" width="30" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
