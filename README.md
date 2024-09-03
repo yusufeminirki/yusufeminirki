@@ -14,9 +14,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yusufeminırkı" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusuf-emin-irkı" height="30" width="40" /></a>
-<a href="https://medium.com/@yusufeminirki" target="_blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/42/Medium_icon.svg" alt="Medium" height="30" width="30" />
-</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
