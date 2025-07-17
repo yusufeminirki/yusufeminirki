@@ -4,6 +4,10 @@
 <p align="center">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyusufeminirki&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false"/>
 </p>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=yusufeminirki.visitor-badge" />
+</p>
+
 <h1 align="center">Hi 👋,I'm Yusuf Emin</h1>
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Engineer+🤖;Software+Developer+🚀"></a></p>
