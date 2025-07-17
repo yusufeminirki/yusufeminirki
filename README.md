@@ -1,9 +1,9 @@
 
 <h4 align="center">Profile Views :eyes:</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{yusufeminirki}/count.svg"/></p>
+<!--<p align="center"><img src="https://profile-counter.glitch.me/{yusufeminirki}/count.svg"/></p>
 <p align="center">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyusufeminirki&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false"/>
-</p>
+</p>-->
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=yusufeminirki.visitor-badge" />
 </p>
